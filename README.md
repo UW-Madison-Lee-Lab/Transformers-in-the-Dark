@@ -49,6 +49,11 @@ source sample_navigation.sh # sample search trajectories from the trained Transf
 source run_references_navigation.sh # run reference search algorithms
 ```
 
+## Referred Repositories
+
+* [nanoGPT](https://github.com/karpathy/nanogpt)
+* [Searchformer](https://github.com/facebookresearch/searchformer)
+
 ## License
 
 It is licensed under the [MIT license](LICENSE).
