@@ -2,7 +2,7 @@
 
 This is the official repository for "Transformers in the Dark: Navigating Unknown Search Spaces via Bandit Feedback," published in Transactions on Machine Learning Research (TMLR).
 
-* [arXiv preprint]()
+* [arXiv preprint](https://arxiv.org/abs/2603.24780)
 * [OpenReview forum](https://openreview.net/forum?id=Jij7zCjVfc)
 * [GitHub repository](https://github.com/UW-Madison-Lee-Lab/Transformers-in-the-Dark)
 
